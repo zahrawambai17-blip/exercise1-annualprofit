@@ -4,7 +4,7 @@ name: FATIMAH ZAHRAU WAMBAI
 pathway: introduction to generative AI (beginner).
 
 assignment: i created a line graph illustrating a company's total profit for each month in a year using matlplotlib.
-above the graph i added the title company profit per month.
+above the graph in the added the title company profit per month and also xlabel and ylabel.
 
 
 HOW TO RUN 
